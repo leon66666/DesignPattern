@@ -1,8 +1,8 @@
 # DesignPattern
-java实现的设计模式
-详细说明地址：http://www.cnblogs.com/wangzhongqiu/p/6245820.html
+##java实现的设计模式
+##详细说明地址：http://www.cnblogs.com/wangzhongqiu/p/6245820.html
 
-总体来说设计模式分为三大类：
+##总体来说设计模式分为三大类：
 
 创建型模式，共五种：工厂方法模式、抽象工厂模式、单例模式、建造者模式、原型模式。
 
