@@ -1,4 +1,4 @@
-package zhongqiu.designpattern.create;
+package zhongqiu.designpattern.create.util;
 
 //发消息接口
 public interface Sender {

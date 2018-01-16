@@ -1,5 +1,10 @@
 package zhongqiu.designpattern.create;
 
+
+import zhongqiu.designpattern.create.util.MailSender;
+import zhongqiu.designpattern.create.util.Sender;
+import zhongqiu.designpattern.create.util.SmsSender;
+
 //抽象工厂模式
 public class AbstractFactoryDemo {
 	public static void main(String[] args) {
